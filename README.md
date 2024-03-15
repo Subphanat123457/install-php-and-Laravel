@@ -27,7 +27,7 @@
 2. ทดสอบการติดตั้ง Composer ด้วยคำสั่ง `composer -v` ใน Command Prompt
 ![Composer Installation](./image/4-composer-v.png)
 
-3. ติดตั้ง Laravel ผ่าน Composer ด้วยคำสั่ง `composer global require laravel/installer`
-4. เพิ่ม `C:\Users\[username]\AppData\Roaming\Composer\vendor\bin` ไปยัง PATH ของระบบ
-5. ทดสอบการติดตั้ง Laravel ด้วยคำสั่ง `laravel -v` ใน Command Prompt
+3. ติดตั้ง Laravel ผ่าน Composer ด้วยคำสั่ง `composer create-project laravel/laravel:^11.0 example-app`
+![Composer Installation](./image/install%20Laravel.png)
+
 
