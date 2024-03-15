@@ -19,13 +19,13 @@
 ## การติดตั้ง Laravel
 
 1. ติดตั้ง Composer จาก [เว็บไซต์อย่างเป็นทางการ](https://getcomposer.org/download/)
-[Composer Installation](./image/1-composer.png)
-[Composer Installation](./image/2-selectmode.png)
-[Composer Installation](./image/3-step1.png)
-[Composer Installation](./image/3-step2.png)
-[Composer Installation](./image/3-step3.png)
+![Composer Installation](./image/1-composer.png)
+![Composer Installation](./image/2-selectmode.png)
+![Composer Installation](./image/3-step1.png)
+![Composer Installation](./image/3-step2.png)
+![Composer Installation](./image/3-step3.png)
 2. ทดสอบการติดตั้ง Composer ด้วยคำสั่ง `composer -v` ใน Command Prompt
-[Composer Installation](./image/4-composer-v.png)
+![Composer Installation](./image/4-composer-v.png)
 
 3. ติดตั้ง Laravel ผ่าน Composer ด้วยคำสั่ง `composer global require laravel/installer`
 4. เพิ่ม `C:\Users\[username]\AppData\Roaming\Composer\vendor\bin` ไปยัง PATH ของระบบ
